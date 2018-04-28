@@ -1,0 +1,1 @@
+ build/default/production/RTC_F.d  build/default/production/RTC_F.p1:  RTC_F.c lcd.h keypad.h configuration.h
